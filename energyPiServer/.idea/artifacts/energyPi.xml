@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="energyPi">
+    <output-path>$PROJECT_DIR$/out/artifacts/energyPi</output-path>
+    <root id="archive" name="energyPi.war">
+      <element id="artifact" artifact-name="energyPiServer:war exploded" />
+    </root>
+  </artifact>
+</component>

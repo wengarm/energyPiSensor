@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="energyPi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/energyPi_jar</output-path>
+    <root id="archive" name="energyPi.jar">
+      <element id="module-output" name="energyPi" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-device.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-example.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-core-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-core-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-device-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-device-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-example-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-example-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/jna-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/httpcore-4.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/httpmime-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/fluent-hc-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/httpclient-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/jna-platform-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/httpclient-win-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/httpcomponents-client-4.5.3/lib/httpclient-cache-4.5.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
